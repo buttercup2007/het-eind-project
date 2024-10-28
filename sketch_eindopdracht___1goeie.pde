@@ -1,4 +1,4 @@
-int currentPage = 1; //<>//
+int currentPage = 1; 
 int[] blockX = {10, 70, 130, 190, 250, 310 };
 int[] blockY = {50, 50, 50, 50, 50, 50};
 int[] originalBlockX2 = {10, 70, 130, 190, 250, 310};
