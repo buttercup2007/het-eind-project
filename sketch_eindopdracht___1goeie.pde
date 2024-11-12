@@ -128,7 +128,7 @@ void drawPage4() {
     for (int i = 0; i < blockX.length; i++) {
     fill(getBlockColor(i));
     noStroke();
-    rect(originalBlockX[i], originalBlockY[i], widthBlock, heightBlock);
+    rect(originalBlockX2[i], originalBlockY2[i], widthBlock, heightBlock);
     }
 }
 
